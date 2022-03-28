@@ -49,7 +49,7 @@ static const char DP_MANAGER = '\0';
     if (self) {
         _items = items;
         [self createSubviews];
-        self.backgroundColor = [UIColor systemMintColor];
+        self.backgroundColor = [UIColor yellowColor];
     }
     return self;
 }

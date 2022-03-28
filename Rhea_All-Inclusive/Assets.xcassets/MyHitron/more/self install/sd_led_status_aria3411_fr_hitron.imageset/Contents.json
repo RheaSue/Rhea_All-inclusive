@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "sd_led_status_fr_hitron.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "sd_led_status_fr_hitron@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "sd_led_status_fr_hitron@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
