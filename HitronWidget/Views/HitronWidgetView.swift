@@ -84,7 +84,7 @@ struct MediumHitronWidgetView: View {
         ZStack {
             Color.theme_gray_background
             ZStack {
-                VStack(alignment: .leading, spacing: 0.0) {
+                VStack(alignment: .leading, spacing: 10.0) {
                     Text("CODA-4582")
                         .foregroundColor(Color.init(white: 0.3))
                         .font((.system(size: 16, weight: .semibold)))
@@ -162,8 +162,8 @@ struct MediumHitronWidgetView: View {
                     
                 }
             }
-            .padding(.top, 5)
-            .padding(.bottom, 5)
+//            .padding(.top, 5)
+//            .padding(.bottom, 5)
         }
     }
 }
